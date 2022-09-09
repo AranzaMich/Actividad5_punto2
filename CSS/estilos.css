@@ -1,0 +1,51 @@
+html{
+  background-color: white;
+  padding: 50px;
+  font-family: "Bahnschrift";
+    font-size: 20px;
+    }
+
+header{
+  background-color:#F44336;
+  font-family: "Bahnschrift";
+  color: white;
+  font-size: 25px;
+      }
+
+h1{
+  border-style: solid;
+  }
+
+section{
+  font-family: "Bahnschrift";
+  color: red;
+  padding: 10px;
+  text-align: justify;
+  font-size: 20px;
+  background-color:#F8F9F9;
+       }
+
+figure{
+  border-style: solid;
+  border-width: 2px;
+  font-family: "Bahnschrift";
+  margin: 0;
+  padding: 0;
+      }
+
+img{
+  width: 1229px;
+  height: auto;
+   }
+
+ul{
+  border-style: solid;
+  border-width: 2px;
+  }
+
+footer{
+  background-color:#F44336;
+  font-family: "Bahnschrift";
+  color: white;
+  font-size: 17px;
+      }
